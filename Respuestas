@@ -1,0 +1,11 @@
+
+LPP
+Practica 5: 
+
+ ¿Cuál es el error en el código del método para calcular el máximo común divisor?
+El error se encuentra en la igualacion del bucle, donde hay un == debe colocarse un !=.
+
+ ¿Cuál es el error en el código del método para calcular el máximo común divisor?
+Para detectar el error empleé el comando n, para pasar de sentencia y detectar un bucle extra en la ejecución. 
+
+
